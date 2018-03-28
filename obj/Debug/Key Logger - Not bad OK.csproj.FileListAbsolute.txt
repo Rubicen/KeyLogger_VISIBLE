@@ -1,0 +1,9 @@
+C:\Users\logan\Documents\______________projects\SM\Key Logger - Not bad OK\Key Logger - Not bad OK\bin\Debug\Key Logger - Not bad OK.exe.config
+C:\Users\logan\Documents\______________projects\SM\Key Logger - Not bad OK\Key Logger - Not bad OK\obj\Debug\Key Logger - Not bad OK.csprojResolveAssemblyReference.cache
+C:\Users\logan\Documents\______________projects\SM\Key Logger - Not bad OK\Key Logger - Not bad OK\bin\Debug\Key Logger - Not bad OK.exe
+C:\Users\logan\Documents\______________projects\SM\Key Logger - Not bad OK\Key Logger - Not bad OK\bin\Debug\Key Logger - Not bad OK.pdb
+C:\Users\logan\Documents\______________projects\SM\Key Logger - Not bad OK\Key Logger - Not bad OK\obj\Debug\Key Logger - Not bad OK.exe
+C:\Users\logan\Documents\______________projects\SM\Key Logger - Not bad OK\Key Logger - Not bad OK\obj\Debug\Key Logger - Not bad OK.pdb
+C:\Users\logan\Documents\_projects\SM\Key Logger - Not bad OK\Key Logger - Not bad OK\bin\Debug\Key Logger - Not bad OK.exe.config
+C:\Users\logan\Documents\_projects\SM\Key Logger - Not bad OK\Key Logger - Not bad OK\obj\Debug\Key Logger - Not bad OK.exe
+C:\Users\logan\Documents\_projects\SM\Key Logger - Not bad OK\Key Logger - Not bad OK\obj\Debug\Key Logger - Not bad OK.pdb
